@@ -2,7 +2,7 @@
 layout: page
 title: >
     The First Workshop on <br> UM-IoS: Unimodal and Multimodal Induction of Linguistic Structures
-description: ACL 2022 Workshop
+description: EMNLP 2022 Workshop
 permalink: /
 ---
 
@@ -67,13 +67,11 @@ Induction of structures (IoS) is the process of inducing structured objects (a g
             <td width="25%"><a href="https://hantek.github.io/"><img src="images/speakers/zhouhanlin.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
             <td width="25%"><a href="https://people.csail.mit.edu/yoonkim/"><img src="images/speakers/yoonkim.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
             <td width="25%"><a href="http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/"><img src="images/speakers/kewei.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-            <td width="25%"><a href="https://web.eecs.umich.edu/~chaijy/"><img src="images/speakers/joycechai.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
         </tr>
         <tr>
             <td><a href="https://hantek.github.io/">Zhouhan Lin (SJTU)</a></td>
             <td><a href="https://people.csail.mit.edu/yoonkim/"> Yoon Kim (MIT)</a></td>
             <td><a href="http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/">Kewei Tu <br> (ShanghaiTech University)</a></td>
-            <td><a href="https://web.eecs.umich.edu/~chaijy/">Joyce Y. Chai (UMich)</a></td>              
         </tr>
         </tbody>
     </table>
