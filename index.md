@@ -39,7 +39,8 @@ permalink: /
 
 | Time | Speaker | Description |
 | --- | ----------- | ---------------------- |
-| 10:00 - 10:15 | Song-Chun Zhu | Opening Remark |
+| 10:00 - 10:15 |  | Opening Remark |
+| 10:15 - 10:30 |  | TBD |
 
 ### Overview
 
