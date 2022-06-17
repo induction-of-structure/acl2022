@@ -6,6 +6,24 @@ code {
 }
 
 h3 {
-    margin-top: 15px;
+    margin-top: 20px;
 
+}
+
+.important_dates {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    tr, td {
+        vertical-align: middle;
+    }
+    td {
+        border-bottom: 1px solid #9b9b9d;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+    }
+    tr {
+        display: table-row;
+    }
 }
