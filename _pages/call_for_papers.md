@@ -34,7 +34,7 @@ unlimited pages for bibliography. Submissions must be in PDF format following
 the official ACL style templates, anonymized for review. All long and short papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). Paper submissions must use the official ACL style templates, which are available from [here](https://github.com/acl-org/acl-style-files) (Latex and Word). Please follow the paper formatting guidelines general to “*ACL” conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). Each submission will be reviewed by at least 2 program committee members.
  
 Submission is electronic and is managed by two ways:
-OpenReview at [https://openreview.net/group?id=aclweb.org/EMNLP/2022/Workshop/UM-IoS](https://openreview.net/group?id=aclweb.org/EMNLP/2022/Workshop/UM-IoS) and Softconf system at [https://softconf.com/emnlp2022/UM-IoS/](https://softconf.com/emnlp2022/UM-IoS/). A paper may not be simultaneously under review through ARR and Softconf. 
+OpenReview at [https://openreview.net/group?id=EMNLP/2022/Workshop/UMIoS](https://openreview.net/group?id=EMNLP/2022/Workshop/UMIoS) and Softconf system at [https://softconf.com/emnlp2022/UM-IoS/](https://softconf.com/emnlp2022/UM-IoS/). A paper may not be simultaneously under review through ARR and Softconf. 
 
 ### Important Dates <span style="font-size:15px">(anywhere on Earth/UTC-12)</span>
 
