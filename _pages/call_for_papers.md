@@ -45,7 +45,7 @@ We accept submissions from both ARR and Softconf. So if you find that you have m
 <tbody>
 <tr><td>ARR Submission deadline</td><td>July 15, 2022</td></tr>
 <tr><td>ARR Commitment deadline</td><td>October 2, 2022</td></tr>
-<tr><td>Softconf Submission deadline</td><td>September 7, 2022</td></tr>
+<tr><td>Softconf Submission deadline</td><td>October 2, 2022</td></tr>(*UPDATED*)
 <tr><td>Acceptance notification</td><td>October 20, 2022 (TBD)</td></tr>
 <tr><td>Workshop Date</td><td>December 7th/8th, 2022 (TBD)</td></tr>
 
