@@ -24,7 +24,7 @@ permalink: /
         <tr>
             <td width="25%"><a href="http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/"><img src="images/speakers/kewei.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
             <td width="25%"><a href="https://web.eecs.umich.edu/~chaijy/"><img src="images/speakers/joycechai.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-            <td width="25%"><a href="http://www.stat.ucla.edu/~sczhu/"><img src="images/speakers/songchun.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+            <td width="25%"><a href="http://www.stat.ucla.edu/~sczhu/"><img src="images/speakers/songchun.png" width="120px" align="bottom" style="border-radius: 50%"></a></td>
         </tr>
         <tr>
             <td><a href="http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/">Kewei Tu <br> (ShanghaiTech University)</a></td>            
