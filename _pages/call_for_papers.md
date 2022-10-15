@@ -71,5 +71,5 @@ We accept submissions from both ARR and Softconf. So if you find that you have m
 
 [1] [https://openreview.net/group?id=aclweb.org/EMNLP/2022/Workshop/UM-IoS](https://openreview.net/group?id=aclweb.org/EMNLP/2022/Workshop/UM-IoS)  
 [2] [https://softconf.com/emnlp2022/UM-IoS/](https://softconf.com/emnlp2022/UM-IoS/)   
-[3] [https://induction-of-structure.github.io/emnlp2022/Workshops](https://induction-of-structure.github.io/emnlp2022/Workshops) - EMNLP 2022
+[3] [https://induction-of-structure.github.io/emnlp2022/](https://induction-of-structure.github.io/emnlp2022/) - EMNLP 2022
 
