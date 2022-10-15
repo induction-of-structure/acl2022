@@ -63,7 +63,7 @@ We accept submissions from both ARR and Softconf. So if you find that you have m
  
 ### Contact information
 
-**Website:** [https://induction-of-structure.github.io/emnlp2022/UM-IoS22-call-for-papers/](https://induction-of-structure.github.io/emnlp2022/UM-IoS22-call-for-papers/)
+**Website:** [https://induction-of-structure.github.io/emnlp2022/call_for_papers](https://induction-of-structure.github.io/emnlp2022/call_for_papers)
 
 **E-mail:** UM-IoS<code>[at]</code>googlegroups.com
  
