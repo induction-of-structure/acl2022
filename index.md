@@ -59,8 +59,8 @@ Induction of structures (IoS) is the process of inducing structured objects (a g
             <td width="25%"><a href="https://scholar.google.com/citations?user=qff5rRYAAAAJ&hl=en"><img src="images/speakers/yikang.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
         </tr>
         <tr>
-            <td><a href="http://hanwenjuan.com/">Wenjuan Han<sup>*</sup> (BIGAI)</a></td>              
-            <td><a href="https://zilongzheng.github.io/">Zilong Zheng<sup>*</sup> (BIGAI)</a></td>
+            <td><a href="http://hanwenjuan.com/">Wenjuan Han<sup></sup> (BIGAI)</a></td>              
+            <td><a href="https://zilongzheng.github.io/">Zilong Zheng<sup></sup> (BIGAI)</a></td>
             <td><a href="https://lifengjin.github.io/">Lifeng Jin (OSU)</a></td>
             <td><a href="https://scholar.google.com/citations?user=qff5rRYAAAAJ&hl=en">Yikang Shen (Mila)</a></td>
         </tr>
