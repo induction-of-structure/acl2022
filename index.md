@@ -6,6 +6,8 @@ description: EMNLP 2022 Workshop
 permalink: /
 ---
 
+### This workshop will be virtual.
+
 ### Invited Speakers
 
 <speaker>
