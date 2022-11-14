@@ -45,20 +45,20 @@ We accept submissions from both ARR and Softconf. So if you find that you have m
 <tbody>
 <tr><td>ARR Submission deadline</td><td>July 15, 2022</td></tr>
 <tr><td>ARR Commitment deadline</td><td>October 2, 2022</td></tr>
-<tr><td>Softconf Submission deadline</td><td>October 31, 2022(*UPDATED*)</td></tr>
-<tr><td>Acceptance notification</td><td>November 10, 2022 (TBD)</td></tr>
-<tr><td>Workshop Date</td><td>December 7th/8th, 2022 (TBD)</td></tr>
+<tr><td>Softconf Submission deadline</td><td>October 31, 2022</td></tr>
+<tr><td>Acceptance notification</td><td>November 10, 2022</td></tr>
+<tr><td>Workshop Date</td><td>December 7th, 2022</td></tr>
 
 </tbody>
 </table>
  
 <!-- **ARR Submission deadline:** The last possible ARR deadline for papers (to have meta-reviews on time to be able to commit to our venue) is July 15. The last commitment deadline for ARR papers (that have meta reviews) is October 2.
 
-**Softconf Submission deadline:** October 31, 2022 ((*UPDATED*))
+**Softconf Submission deadline:** October 31, 2022
  
 **Acceptance notification:** November 10, 2022
 
-**Workshop Date:** December 7th or 8th, 2022 (TBD)
+**Workshop Date:** December 7th, 2022
 
 This workshop will be *virtual*.
  --->
