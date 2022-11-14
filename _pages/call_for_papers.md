@@ -47,7 +47,7 @@ We accept submissions from both ARR and Softconf. So if you find that you have m
 <tr><td>ARR Commitment deadline</td><td>October 2, 2022</td></tr>
 <tr><td>Softconf Submission deadline</td><td>October 31, 2022</td></tr>
 <tr><td>Acceptance notification</td><td>November 10, 2022</td></tr>
-<tr><td>Workshop Date</td><td>December 7th, 2022</td></tr>
+<tr><td>Workshop Date</td><td>December 7, 2022</td></tr>
 
 </tbody>
 </table>
@@ -58,7 +58,7 @@ We accept submissions from both ARR and Softconf. So if you find that you have m
  
 **Acceptance notification:** November 10, 2022
 
-**Workshop Date:** December 7th, 2022
+**Workshop Date:** December 7, 2022
 
 This workshop will be *virtual*.
  --->
