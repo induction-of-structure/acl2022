@@ -37,10 +37,25 @@ permalink: /
 
 ### Schedule
 
+Following the timezone of EMNLP2022 (Abu Dhabi time; UTC +4)
+
 | Time | Speaker | Description |
 | --- | ----------- | ---------------------- |
-| 10:00 - 10:15 |  | Opening Remark |
-| 10:15 - 10:30 |  | TBD |
+| 09:00 - 9:10 | | Opening Remark |
+| 09:10 - 09:50 | Joyce Chai | Keynote 1: Learning Grounded Task Structures from Language and Vision |
+| 09:50 - 10:30 | William Schuler | Keynote 2:Evaluating a statistical learning hypothesis for human grammar acquisition |
+| 10:30 - 11:00 |  | Coffee Break |
+| 11:00 - 11:40 | Kewei Tu | Keynote 3:Scaling Up Probabilistic Grammar Induction with Tensor Decomposition |
+| 11:40 - 12:20 | Song-Chun Zhu | Keynote 4:Towards a More General AI: From "Big Data" to "Big Task" from the Perspective of Multimodal Joint Parsing |
+| 12:20 - 14:00 |  | Lunch Break |
+| 14:00 - 14:40 | Songyang Zhang | Keynote 5:Learning a Grammar Inducer from Videos |
+| 14:40 - 15:20 | Kai-Wei Chang | Keynote 6:Constraint Mining and Constrained Decoding in NLP |
+| 15:20 - 16:00 |  | Coffee Break |
+| 16:00 - 17:00 |  | Poster session |
+| 17:00 - 17:30 |  | Oral Presentation I |
+| 17:30 - 17:45 |  | Mini Break |
+| 17:45 - 18:50 |  | Oral Presentation II |
+| 18:50 - 19:00 | | Ending Remark |
 
 ### Overview
 
