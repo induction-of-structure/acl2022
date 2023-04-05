@@ -46,7 +46,7 @@ Following the timezone of EMNLP2022 (Abu Dhabi time; UTC +4)
 | 09:50 - 10:30 | William Schuler | Keynote 2:Evaluating a statistical learning hypothesis for human grammar acquisition |
 | 10:30 - 11:00 |  | Coffee Break |
 | 11:00 - 11:40 | Kewei Tu | Keynote 3:Scaling Up Probabilistic Grammar Induction with Tensor Decomposition |
-| 11:40 - 12:20 | Song-Chun Zhu | Keynote 4:Towards a More General AI: From "Big Data" to "Big Task" from the Perspective of Multimodal Joint Parsing |
+| 11:40 - 12:20 | Zilong Zheng | Keynote 4: Vision Language Joint Parsing |
 | 12:20 - 14:00 |  | Lunch Break |
 | 14:00 - 14:40 | Songyang Zhang | Keynote 5:Learning a Grammar Inducer from Videos |
 | 14:40 - 15:20 | Kai-Wei Chang | Keynote 6:Constraint Mining and Constrained Decoding in NLP |
